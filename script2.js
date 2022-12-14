@@ -12,7 +12,7 @@ function range(a, b) {
         return range(a + 1, b)
     }
 }
-
+//
 function rangeReverse(n1, n2) {
     if (n1 === n2)
         document.write(`<div> ${n2}</div>`);
